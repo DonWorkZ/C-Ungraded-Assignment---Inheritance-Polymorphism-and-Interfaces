@@ -1,0 +1,12 @@
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.frmProductionWorker.resources
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.frmEmployeeSelection.resources
+C:\Users\Hafiz Nasir\source\repos\EmployeeManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.frmShiftSupervisor.resources
